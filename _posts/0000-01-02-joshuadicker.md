@@ -1,1 +1,6 @@
-_posts/0000-01-02-joshuadicker.md
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+learning github
+
